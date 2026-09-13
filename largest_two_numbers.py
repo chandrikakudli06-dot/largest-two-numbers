@@ -1,4 +1,4 @@
-a = int(input("Enter first number: "))
+Added largest two numbers Python programa = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 
 if a > b:
